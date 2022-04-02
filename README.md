@@ -1,6 +1,7 @@
 # ExploFind
 Before time runs out, collect the item that has been chosen while everything flying around.
 
+https://play.google.com/store/apps/details?id=com.BSDigitalArts.ExploFind
 
 https://youtu.be/o3_-6t49bzk
 
